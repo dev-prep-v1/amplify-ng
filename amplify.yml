@@ -21,3 +21,5 @@ frontend:
     paths:
       - .npm/**/*
       - node_modules/**/*
+  customHeaders:
+    filePath: customHttp.yml
