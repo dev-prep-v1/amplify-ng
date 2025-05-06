@@ -22,4 +22,4 @@ customHeaders:
       - key: 'Expect-CT'
         value: 'max-age=86400, enforce'
       - key: 'Server'
-        value: ''
+        value: 'NA'
